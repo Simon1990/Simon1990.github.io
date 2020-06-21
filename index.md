@@ -16,3 +16,8 @@ Homers Lieblingsfreizeitbeschäftigung ist Bier trinken :)
   * Donuts
   * Pancackes
   * Duff-Beer
+
+Homer sagte mal:
+
+> 7 Bier ersetzen 
+> eine Mahlzeit!
