@@ -7,12 +7,12 @@ Homers Lieblingsfreizeitbeschäftigung ist Bier trinken :)
 
 
 ## Eigenschaften von Homer Simpson
-*faul
-*dick
-*liebt Bier
-*Zieht Schlamassel magisch an
+* faul
+* dick
+* liebt Bier
+* Zieht Schlamassel magisch an
 
-*Lieblingsspeisen:
-  *Donuts
-  *Pancackes
-  *Duff-Beer
+* Lieblingsspeisen:
+  * Donuts
+  * Pancackes
+  * Duff-Beer
