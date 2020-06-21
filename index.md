@@ -16,3 +16,6 @@ Homers Lieblingsfreizeitbeschäftigung ist Bier trinken :)
   *Donuts
   *Pancackes
   *Duff-Beer
+
+
+<img src="https://lokalo.de/wp-content/uploads/2014/12/homer_simpson-696x450.jpg"/>
